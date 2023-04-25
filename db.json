@@ -1,0 +1,128 @@
+{
+  "drugs": [
+    {
+        "name": "panadol",
+        "dosage": "1-2 tablets every 4-6 hours as needed",
+        "side_effects": ["nausea", "vomiting", "liver damage"]
+      },
+      {
+        "name": "piriton",
+        "dosage": "1 tablet once daily",
+        "side_effects": ["drowsiness", "dry mouth", "blurred vision"]
+      },
+      {
+        "name": "mara moja",
+        "dosage": "1-2 tablets once daily",
+        "side_effects": ["nausea", "vomiting", "abdominal pain"]
+      },
+      {
+        "name": "kaluma pain balm",
+        "dosage": "apply topically to affected area as needed",
+        "side_effects": ["skin irritation", "rash"]
+      },
+      {
+        "name": "eno",
+        "dosage": "1-2 sachets in water, taken as needed for indigestion or heartburn",
+        "side_effects": ["nausea", "vomiting", "diarrhea"]
+      },
+      {
+        "name": "augmentin",
+        "dosage": "1 tablet twice daily",
+        "side_effects": ["diarrhea", "nausea", "vomiting"]
+      },
+      {
+        "name": "cetrizine",
+        "dosage": "1 tablet once daily",
+        "side_effects": ["drowsiness", "dry mouth", "blurred vision"]
+      },
+      {
+        "name": "losartan h",
+        "dosage": "1 tablet once daily",
+        "side_effects": ["dizziness", "nausea", "fatigue"]
+      },
+      {
+        "name": "glucomet",
+        "dosage": "1 tablet twice daily with meals",
+        "side_effects": ["nausea", "vomiting", "diarrhea"]
+      },
+      {
+        "name": "loratadine",
+        "dosage": "1 tablet once daily",
+        "side_effects": ["drowsiness", "dry mouth", "blurred vision"]
+      },
+      {
+        "name": "ranferon",
+        "dosage": "1 tablet twice daily",
+        "side_effects": ["nausea", "vomiting", "constipation"]
+      },
+      {
+        "name": "ambroxol",
+        "dosage": "1-2 tablets three times daily",
+        "side_effects": ["nausea", "vomiting", "diarrhea"]
+      },
+      {
+        "name": "calcium supplements",
+        "dosage": "1-2 tablets once daily",
+        "side_effects": ["constipation", "abdominal pain", "nausea"]
+      },
+      {
+        "name": "pregnacare",
+        "dosage": "1 tablet once daily",
+        "side_effects": ["nausea", "vomiting", "diarrhea"]
+      },
+      {
+        "name": "wellman",
+        "dosage": "1 tablet once daily",
+        "side_effects": ["nausea", "vomiting", "diarrhea"]
+      },
+      {
+        "name": "cod liver oil",
+        "dosage": "1-2 capsules daily with meals",
+        "side_effects": ["nausea", "diarrhea", "headache"]
+      },
+      {
+        "name": "sunscreen",
+        "dosage": "apply liberally 15 minutes before sun exposure and reapply every 2 hours",
+        "side_effects": ["skin irritation", "rash"]
+      },
+      {
+        "name": "celecoxib",
+        "dosage": "200-400mg daily with food",
+        "side_effects": ["upset stomach", "diarrhea", "headache"]
+      },
+      {
+        "name": "etoricoxib",
+        "dosage": "60-120mg once daily",
+        "side_effects": ["nausea", "upset stomach", "dizziness"]
+      },
+      {
+        "name": "montelukast levocetrizine",
+        "dosage": "1 tablet once daily",
+        "side_effects": ["headache", "drowsiness", "upset stomach"]
+      },
+      {
+        "name": "cyproheptadine syrup",
+        "dosage": "5-20mg daily in divided doses",
+        "side_effects": ["drowsiness", "dizziness", "dry mouth"]
+      },
+      {
+        "name": "pregabalin",
+        "dosage": "150-600mg daily in divided doses",
+        "side_effects": ["dizziness", "drowsiness", "blurred vision"]
+      },
+      {
+        "name": "atenolol",
+        "dosage": "25-100mg once daily",
+        "side_effects": ["dizziness", "fatigue", "upset stomach"]
+      },
+      {
+        "name": "codein",
+        "dosage": "10-60mg every 4-6 hours as needed",
+        "side_effects": ["drowsiness", "nausea", "constipation"]
+      },
+      {
+        "name": "atemether and lumefantrine syrup",
+        "dosage": "according to body weight and age, as directed by physician",
+        "side_effects": ["nausea", "vomiting", "headache"]
+      }
+  ]}
